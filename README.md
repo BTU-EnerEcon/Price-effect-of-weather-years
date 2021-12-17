@@ -1,0 +1,3 @@
+# Price-effect-of-weather-years
+ Input data and source code for the model computing electricty wholesale prices in the paper "On the development of wind market values and the weather’s influence: a German case study" 
+The model published in this repository is free: you can access, modify and share it under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. This model is shared in the hope that it will be useful for further research on topics of risk-aversion, investments, flexibility and uncertainty in ectricity markets but without any warranty of merchantability or fitness for a particular purpose.
