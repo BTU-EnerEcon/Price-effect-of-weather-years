@@ -4,7 +4,7 @@
 
 
 ### The code reproduces wholesale electricity prices used to compute market values of wind onshore turbines in Germany for a set of different wind years 
-Note that model output files are not uploaded to github due to limits on individual file size and on repository size in general. 
+Note that model output files are not uploaded to github due to limits on individual file size and on repository size in general. Run the code 'rolling window 20xx' for the respective year. The remaining code files are included automatically. 
 
 ### Citing the model code
 
